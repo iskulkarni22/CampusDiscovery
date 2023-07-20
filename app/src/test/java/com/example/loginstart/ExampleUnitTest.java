@@ -1,4 +1,4 @@
-package com.example.campusdiscovery;
+package com.example.loginstart;
 
 import org.junit.Test;
 
